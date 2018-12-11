@@ -1,0 +1,33 @@
+v0.16.5
+----------------------------
+--SMOKE! Smoke and steam looks proper as output from the stacks and fins at the top.
+--Fixed graphical alignment issue on Vertical oriented steam engine groups.
+
+
+v0.16.4
+----------------------------
+--Added double and quad engines
+--Fixed locale data
+--Balanced mining time to be directly proportional to the "amount" you're mining
+
+
+v0.16.3
+----------------------------
+--Added quad turbines
+
+
+v0.16.2
+----------------------------
+--Added flying text to confirm combination
+--Internal restructure of mod functionality
+
+
+v0.16.1
+----------------------------
+--Now compatable with blueprinting. Always verify that it paired properly.
+--Fixed return value when mining the double turbine.
+
+
+v0.16.0
+----------------------------
+--Launch
